@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2m1wEAVSCVGrM8HGW9SxsRmgWcRKaBdXh5yFiKJrTRrRLKDylFd0EqEifnQvu+zuq6w3Tdbu+Kp9m0jytKhaEw==",
+  "success": true,
+  "projectFilePath": "D:\\proxy\\ReverseProxyAPI\\ReverseProxyAPI\\ReverseProxyAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beshoy.grace\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\beshoy.grace\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "C:\\Users\\beshoy.grace\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\beshoy.grace\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\beshoy.grace\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\beshoy.grace\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
